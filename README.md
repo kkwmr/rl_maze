@@ -2,7 +2,7 @@
 Reinforcement learning with maze search
 ====
 
-#Overview
+## Overview
 Reinforcement learning with maze search using Python3
 
 ## Requirement
